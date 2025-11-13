@@ -1,0 +1,47 @@
+body{
+    background-color: lightgray;
+    font-family: sans-serif;
+}
+
+.container{
+    background-color: white;
+    width: 500px;
+    height: 400px;
+    padding: 25px 0;
+    margin: 80px auto 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #808084;
+}
+
+.logo{
+    width: 150px;
+    display: block;
+    margin: auto;
+    border: 2px dotted gray;
+    border-radius: 50%;
+}
+
+.title{
+    font-size: 25px;
+    width: 160px;
+    margin: 25px auto;
+    color: #808084;
+    border-bottom: 5px solid lightgray;
+}
+
+.desc{
+    text-align: center;
+    color: #808084;
+}
+
+.socials{
+    background-color: lightgray;
+    text-align: center;
+    height: 60px;
+}
+
+.socials img{
+    width: 40px;
+    margin: 10px;
+}
